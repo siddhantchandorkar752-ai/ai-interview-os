@@ -1,0 +1,5 @@
+MODEL_NAME = 'llama-3.1-8b-instant'
+
+TEMPERATURE = 1.0
+
+MAX_TOKENS = 2048
